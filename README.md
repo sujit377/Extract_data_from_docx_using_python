@@ -1,1 +1,1 @@
-# Extract_data_from_docx_using_python
+# Exract data name,phone number and address from docx table and import it into excel sheet
